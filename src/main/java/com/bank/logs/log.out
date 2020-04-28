@@ -1,0 +1,19 @@
+2020-04-28 19:04:20 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-28 19:04:270 INFO  HomePage :41 - Clicking On BankManager Login :[[ChromeDriver: chrome on WINDOWS (ec6354d62d413aa4ca5630d1b00003c9)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-28 19:04:842 INFO  BankManagerLoginPage :33 - Clicking On Add Customer Tab :[[ChromeDriver: chrome on WINDOWS (ec6354d62d413aa4ca5630d1b00003c9)] -> xpath: //button[contains(text(),'Add Customer')]]
+2020-04-28 19:04:155 INFO  AddCustomerPage :34 - Entering FirstName : Ronyto firstname field :[[ChromeDriver: chrome on WINDOWS (ec6354d62d413aa4ca5630d1b00003c9)] -> xpath: //input[@placeholder='First Name']]
+2020-04-28 19:04:324 INFO  AddCustomerPage :40 - Entering LastName :Royto lastname field :[[ChromeDriver: chrome on WINDOWS (ec6354d62d413aa4ca5630d1b00003c9)] -> xpath: //input[@placeholder='Last Name']]
+2020-04-28 19:04:513 INFO  AddCustomerPage :45 - Entering Postcode :HA2 6JTin postcode field :[[ChromeDriver: chrome on WINDOWS (ec6354d62d413aa4ca5630d1b00003c9)] -> xpath: //input[@placeholder='Post Code']]
+2020-04-28 19:04:570 INFO  AddCustomerPage :49 - Clicking On AddCustomer Button :[[ChromeDriver: chrome on WINDOWS (ec6354d62d413aa4ca5630d1b00003c9)] -> xpath: //form[@name='myForm']//button[contains(text(),'Add Customer')]]
+2020-04-28 19:04:439 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-28 19:04:124 INFO  HomePage :41 - Clicking On BankManager Login :[[ChromeDriver: chrome on WINDOWS (60370863ccbad7a5bfe39453875d7022)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-28 19:04:423 INFO  BankManagerLoginPage :44 - Clicking On Customer Tab :[[ChromeDriver: chrome on WINDOWS (60370863ccbad7a5bfe39453875d7022)] -> xpath: //button[contains(text(),'Customers')]]
+2020-04-28 19:04:990 INFO  CustomersPage :32 - Searching customer name: Ronyto search customer field :[[ChromeDriver: chrome on WINDOWS (60370863ccbad7a5bfe39453875d7022)] -> xpath: //input[@placeholder='Search Customer']]
+2020-04-28 19:04:397 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-28 19:04:680 INFO  HomePage :41 - Clicking On BankManager Login :[[ChromeDriver: chrome on WINDOWS (b9d03f347593dd1b861b931ade73e3a6)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-28 19:04:984 INFO  BankManagerLoginPage :44 - Clicking On Customer Tab :[[ChromeDriver: chrome on WINDOWS (b9d03f347593dd1b861b931ade73e3a6)] -> xpath: //button[contains(text(),'Customers')]]
+2020-04-28 19:04:548 INFO  CustomersPage :32 - Searching customer name: Rony Royto search customer field :[[ChromeDriver: chrome on WINDOWS (b9d03f347593dd1b861b931ade73e3a6)] -> xpath: //input[@placeholder='Search Customer']]
+2020-04-28 20:04:785 INFO  BrowserSelector :23 - Launching Chrome Browser
+2020-04-28 20:04:769 INFO  HomePage :41 - Clicking On BankManager Login :[[ChromeDriver: chrome on WINDOWS (8ec9f3242f27de741a870ad45cdd0453)] -> xpath: //button[contains(text(),'Bank Manager Login')]]
+2020-04-28 20:04:32 INFO  BankManagerLoginPage :44 - Clicking On Customer Tab :[[ChromeDriver: chrome on WINDOWS (8ec9f3242f27de741a870ad45cdd0453)] -> xpath: //button[contains(text(),'Customers')]]
+2020-04-28 20:04:520 INFO  CustomersPage :32 - Searching customer name: Rony Royto search customer field :[[ChromeDriver: chrome on WINDOWS (8ec9f3242f27de741a870ad45cdd0453)] -> xpath: //input[@placeholder='Search Customer']]
